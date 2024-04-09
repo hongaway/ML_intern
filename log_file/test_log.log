@@ -1,0 +1,6 @@
+INFO:root:Model: /home/ai2lab/Desktop/ML_intern/HuberLoss_best_model_checkpoint.pth, Accuracy: 99.99%
+INFO:root:Model: /home/ai2lab/Desktop/ML_intern/HuberLoss_best_model_checkpoint.pth, Accuracy: 99.95%
+INFO:root:Model: /home/ai2lab/Desktop/ML_intern/HuberLoss_best_model_checkpoint.pth, Accuracy: 88.25%
+INFO:root:Model: /home/ai2lab/Desktop/ML_intern/L1_best_model_checkpoint.pth, Accuracy: 89.75%
+INFO:root:Model: /home/ai2lab/Desktop/ML_intern/resnet50_best_model_checkpoint.pth, Accuracy: 89.91%
+INFO:root:Model: /home/ai2lab/Desktop/ML_intern/checkpoint/resnet50_best_model_checkpoint.pth, Accuracy: 89.91%
